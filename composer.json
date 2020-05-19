@@ -1,0 +1,19 @@
+{
+    "name": "suryamunirathinam/communication",
+    "description": "send mail",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suryamunirathinam",
+            "email": "suryamunirathinam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Suryamunirathinam\\Communication\\": "src/"
+        }
+    }
+}
