@@ -15,5 +15,13 @@
         "psr-4": {
             "Suryamunirathinam\\Communication\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Suryamunirathinam\\Communication\\CommunicationServiceProvider"
+            ]
+
+        }
     }
 }
